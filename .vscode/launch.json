@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File (pdfrag)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "/opt/homebrew/Caskroom/miniconda/base/envs/pdfrag/bin/python3",
+            "justMyCode": true
+        }
+    ]
+}
